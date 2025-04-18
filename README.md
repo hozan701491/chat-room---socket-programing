@@ -30,6 +30,8 @@ from os import _exit
 from client_customing import Client
 ```
 ما برای server در کلاس Client کتابخانه سوکت را شخصی سازی کردیم و حالا در فایل server کلاس Client درفایل server فراخوانی کردیم.
+##
+
 
 
 
